@@ -1,0 +1,2 @@
+﻿ConnectionString :: Data Source=DESKTOP-9UQ5O0L\SQLEXPRESS;Initial Catalog=NORTHWND;Integrated Security=true
+GetAllEmployees :: usp1 | Id = @id | Name = @name
